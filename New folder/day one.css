@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+body {
+    background-color: aliceblue;
+}
+margin: 100px;i
+</head>
+<body>
+<h1>this is your first html pagel</h1>
+<h3>seems like things are going pretty well so far</h3>
+<h5>lets add a recipe calls for</p>
+<p>were is what the recipa calls for</p>
+<p><strong>redients</strong>(probably not right...)</p>
+<ul>
+<li id="first">6 eggs </li>
+<li class="dash">2 cups of flour</li> 
+<li> 1 cup of sugar</li>
+<\ul>
+<p><strong>instructions</strong>(may or may not be correct)</p>
+<ol>
+<li>add eggs,flour and vanilla extract and mix</li>
