@@ -1,0 +1,35 @@
+div {
+    display: flex;
+    flex-direction:row;
+    height:500px;
+    width:500px;
+    justify-content: flex-end
+    aligh-items; flex-end;
+    flex-wrap:nowrap
+
+
+}
+
+@media screen and (max-width:840px) and (min-width:601px){
+
+
+    p {
+        background-color: blueviolet;
+        }
+    }
+
+ @media screen and (max-width:600px) and (min-width:240px){
+    
+    p {
+     background-color: red;
+}
+}
+@media screen and (max-width:600px) and (min-width:300px){
+ p { padding: 50px;
+    }
+}
+
+
+
+
+
